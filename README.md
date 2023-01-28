@@ -1,6 +1,10 @@
 ## 👋 Hi there! I'm Khant Min Naing!
 ### 🔭 I’m currently studying at Singapore Management University
-I am currently majoring in <strong>Smart-City Management & Technology</strong> where I learn about how cities and people interact through data, technology and management lens.
+I am currently majoring in <strong>Smart-City Management & Technology</strong> where I learn about how cities and people interact through data, technology and management lens. I have taken courses in a range of disciplines including GIS, data analytics, software development, as well as public policy and management. Thanks to the interdisciplinary nature of my coursework, I had the opportunity to work on several research and analytic projects related to smart-city issues and honed my technical and management skills. 
+
+I have been exploring the field of smart-city technology both throughout my time at university and during my summer and winter holidays. I usually read up papers and literatures in urban studies and geoinformatics and write anecdotes on my favourite topics.
+
+
 ## 💻Tech Stack! <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 16px> 
  ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) 
  ![Java](https://img.shields.io/badge/Java-5283a2.svg?style=for-the-badge&logo=oracle&logoColor=white) 
