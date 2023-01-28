@@ -22,14 +22,12 @@ I have been exploring the field of smart-city technology both throughout my time
  ![Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white) 
  ![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)     
 
-## 📫 How to reach me!
-
 ## 🌱 I've worked with these organisations and companies 
 <img src = "https://user-images.githubusercontent.com/87215545/215294033-c4280c43-40bd-4b36-803e-364462ebfd2b.png" width = "100"> <img src = "https://user-images.githubusercontent.com/87215545/215294129-b7a54cb8-32bf-48b6-b6c1-0c02465f086d.png" width = "100"> <img src = "https://user-images.githubusercontent.com/87215545/215294426-b1e2c2c2-9cd6-49c4-8868-d0e2c83c2aef.png" width = "100"> <img src = "https://user-images.githubusercontent.com/87215545/215294261-831f2517-a26b-496d-b14c-8c04e47c5327.png" width = "100"> <img src = "https://user-images.githubusercontent.com/87215545/215294326-f5e9c5b2-12cd-443e-a7c6-e2ee487d39c0.png " width = "100"> 
 
-
-
-
+## 📫 How to reach me!
+<a href="https://www.linkedin.com/in/khantminnaing" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:mnkhant.2020@smu.edu.sg?subject=Heyy%20Khant!" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Gmail-C41E3A?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <!--
 **khantminnaing/khantminnaing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -43,5 +41,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<p><a href="https://linkedin.com/in/khantminnaing">
+<img src = "https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" width "50" height ="50"></a>
+<a href="mailto:mnkhant.2020@smu.edu.sg?subject=Heyy%20Khant!">
+<img src = "https://seeklogo.com/images/G/gmail-icon-logo-9ADB17D3F3-seeklogo.com.png" width "50" height ="50"></a></p>
 
 -->
