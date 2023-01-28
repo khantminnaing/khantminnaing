@@ -1,5 +1,5 @@
 ## 👋 Hi there! I'm Khant Min Naing!
-### 🔭 I’m currently studying at Singapore Management University  <img src="https://user-images.githubusercontent.com/87215545/215293944-90a9cc0a-4e2a-42e7-adfd-a8a32a488999.png" width="19"/>
+### 🔭 I’m currently studying at Singapore Management University  <img src="https://user-images.githubusercontent.com/87215545/215293944-90a9cc0a-4e2a-42e7-adfd-a8a32a488999.png" width="16"/>
 
 I am currently majoring in <strong>Smart-City Management & Technology</strong> where I learn about how cities and people interact through data, technology and management lens. I have taken courses in a range of disciplines including GIS, data analytics, software development, as well as public policy and management. Thanks to the interdisciplinary nature of my coursework, I had the opportunity to work on several research and analytic projects related to smart-city issues and honed my technical and management skills. 
 
