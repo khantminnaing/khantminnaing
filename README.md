@@ -1,5 +1,6 @@
 ## 👋 Hi there! I'm Khant Min Naing!
-### 🔭 I’m currently studying at Singapore Management University
+### 🔭 I’m currently studying at Singapore Management University  <img src="https://user-images.githubusercontent.com/87215545/215293944-90a9cc0a-4e2a-42e7-adfd-a8a32a488999.png" width="19"/>
+
 I am currently majoring in <strong>Smart-City Management & Technology</strong> where I learn about how cities and people interact through data, technology and management lens. I have taken courses in a range of disciplines including GIS, data analytics, software development, as well as public policy and management. Thanks to the interdisciplinary nature of my coursework, I had the opportunity to work on several research and analytic projects related to smart-city issues and honed my technical and management skills. 
 
 I have been exploring the field of smart-city technology both throughout my time at university and during my summer and winter holidays. I usually read up papers and literatures in urban studies and geoinformatics and write anecdotes on my favourite topics.
@@ -20,6 +21,14 @@ I have been exploring the field of smart-city technology both throughout my time
  ![Powerpoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white) 
  ![Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white) 
  ![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)     
+
+## 📫 How to reach me!
+
+## 🌱 I've worked with these organisations and companies 
+<img src = "https://user-images.githubusercontent.com/87215545/215294033-c4280c43-40bd-4b36-803e-364462ebfd2b.png" width = "100"> <img src = "https://user-images.githubusercontent.com/87215545/215294129-b7a54cb8-32bf-48b6-b6c1-0c02465f086d.png" width = "100"> <img src = "https://user-images.githubusercontent.com/87215545/215294426-b1e2c2c2-9cd6-49c4-8868-d0e2c83c2aef.png" width = "100"> <img src = "https://user-images.githubusercontent.com/87215545/215294261-831f2517-a26b-496d-b14c-8c04e47c5327.png" width = "100"> <img src = "https://user-images.githubusercontent.com/87215545/215294326-f5e9c5b2-12cd-443e-a7c6-e2ee487d39c0.png " width = "100"> 
+
+
+
 
 <!--
 **khantminnaing/khantminnaing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
