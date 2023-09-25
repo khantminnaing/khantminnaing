@@ -13,7 +13,7 @@ I have been exploring the field of smart-city technology both throughout my time
  ![Java](https://img.shields.io/badge/Java-5283a2.svg?style=for-the-badge&logo=oracle&logoColor=white) 
  ![Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white) 
  ![QGIS](https://img.shields.io/badge/QGIS-5c7828.svg?style=for-the-badge&logo=QGIS&logoColor=white) 
- ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) 
+ ![Tableau](https://img.shields.io/badge/Tableau-1d447e?style=for-the-badge&logo=Tableau&logoColor=white) 
  ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) 
  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
  ![SpringBoot](https://img.shields.io/badge/SpringBoot-63b175?style=for-the-badge&logo=SpringBoot&logoColor=white) 
