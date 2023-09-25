@@ -9,7 +9,7 @@ I have been exploring the field of smart-city technology both throughout my time
 
 
 ## 💻Tech Stack! <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 16px> 
- ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) 
+ ![Python](https://img.shields.io/badge/Python-f6d043?style=for-the-badge&logo=python&logoColor=white) 
  ![Java](https://img.shields.io/badge/Java-5283a2.svg?style=for-the-badge&logo=oracle&logoColor=white) 
  ![Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white) 
  ![QGIS](https://img.shields.io/badge/QGIS-5c7828.svg?style=for-the-badge&logo=QGIS&logoColor=white) 
