@@ -1,4 +1,4 @@
-## 👋 Hi there! Welcome to my GitHub!
+## 👋 Hi there! My Name is Khant ! Welcome to my GitHub!
 ![Cover Photo](https://user-images.githubusercontent.com/87215545/215295508-809f6054-5084-48ea-a624-37f37982faa3.png)
 
 ### 🔭 I’m currently studying at Singapore Management University  <img src="https://user-images.githubusercontent.com/87215545/215293944-90a9cc0a-4e2a-42e7-adfd-a8a32a488999.png" width="16"/>
